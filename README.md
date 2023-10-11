@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! My name is Rauan 👋
+### Welcome to my Github Profile
 <!--
 **raukasky/raukasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
